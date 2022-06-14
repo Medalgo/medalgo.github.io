@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480290804912",
+    "project_id": "spider-coloring-db389",
+    "storage_bucket": "spider-coloring-db389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480290804912:android:f2ce95501a5f0979145775",
+        "android_client_info": {
+          "package_name": "com.pacific.spiderhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480290804912-6sgddi6hniu4jllrca3pbjrftu1n1olr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPs69XgAhWLoAANRayWT_SjCQIJFhFf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480290804912-6sgddi6hniu4jllrca3pbjrftu1n1olr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
