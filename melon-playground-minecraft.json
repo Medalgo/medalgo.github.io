@@ -9,10 +9,10 @@
     "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
     "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
     
-    "Applovin_Banner"        : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
-    "Applovin_RewardAd"      : "a5f235ba1320fb35",
-    "Applovin_Native"        : "a5f235ba1320fb35",
+    "Applovin_Banner"        : "a659a75f90851531",
+    "Applovin_InterstitialAd": "404eb4f4757c1229",
+    "Applovin_RewardAd"      : "dce8272517db1e1a",
+    "Applovin_Native"        : "3f1f8132d906eba7",
 
     "Unity_GameID"           : "4076527",
     "Unity_Banner"           : "BannerAd",
