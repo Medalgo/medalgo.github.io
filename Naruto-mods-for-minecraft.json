@@ -29,13 +29,13 @@
   "Addons": [
     {
       "title": "MineCarft Decoration Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "addonLink": "https://github.com/Medalgo/medalgo.github.io/blob/main/Naruto_Addon.zip",
       "isLocked" : false ,
       "description": "your description her about Decoration Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://api.mcpedl.com/storage/submissions/104850/images/naruto-addon_2.jpeg",
+        "https://my.mcpedl.com/storage/addons/7368/images/naruto-addon_9.png",
+        "https://my.mcpedl.com/storage/addons/7368/images/naruto-addon_8.png"
       ]
     },
      {
