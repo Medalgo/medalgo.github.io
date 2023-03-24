@@ -28,10 +28,10 @@
   
   "Addons": [
     {
-      "title": "MineCarft Decoration Addon",
+      "title": "Naruto Battle",
       "addonLink": "https://medalgo.github.io/Naruto_Addon.zip",
       "isLocked" : false ,
-      "description": "your description her about Decoration Addon",
+      "description": "In this incredible Add on you will be able to face Naruto 1v1, you will be able to use all his Jutsus and also spend minecraft with him because HE WILL ALSO BE YOUR ALLY, Have fun today and always",
       "preview": [
         "https://api.mcpedl.com/storage/submissions/104850/images/naruto-addon_2.jpeg",
         "https://my.mcpedl.com/storage/addons/7368/images/naruto-addon_9.png",
@@ -39,25 +39,25 @@
       ]
     },
      {
-      "title": "MineCarft Test Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "Naruto Craft Addon",
+      "addonLink": "https://medalgo.github.io/narutobattle.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "Naruto Craft Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://api.mcpedl.com/storage/submissions/141226/images/naruto-battle-add-on_13.jpeg",
+        "https://api.mcpedl.com/storage/submissions/141226/images/naruto-battle-add-on_2.jpeg",
+        "https://api.mcpedl.com/storage/submissions/141226/images/naruto-battle-add-on_14.jpeg"
       ]
     },
      {
-      "title": "MineCarft Test 3",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "Realistic Naruto Run Addon",
+      "addonLink": "https://medalgo.github.io/raruto-race.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "Realistic Naruto Run Addon will change the run texture, make the best run texture from Naruto for your Minecraft game.",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/3.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg"
+        "https://mc-addons.com/uploads/posts/2022-04/medium/1649832153_fasfasfasfd_1-520x245-1.png",
+        "https://mc-addons.com/uploads/posts/2022-04/medium/1649832146_unknown-2-1.png",
+        "https://mc-addons.com/uploads/posts/2022-04/medium/1649832141_unknown-1-1.png"
       ]
     }
   ],
