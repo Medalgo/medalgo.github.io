@@ -28,36 +28,36 @@
   
   "Addons": [
     {
-      "title": "MineCarft Decoration Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "MineCarft Addon",
+      "addonLink": "https://medalgo.github.io/absolute-guns-2-3d-v1_4-r.zip",
       "isLocked" : false ,
-      "description": "your description her about Decoration Addon",
+      "description": "MineCarft Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://mc-addons.com/uploads/posts/2023-01/medium/1673957414_picsart0114080245_1-520x245-1.png",
+        "https://mc-addons.com/uploads/posts/2023-01/medium/1673957456_render_glock_tactical-1.png",
+        "https://mc-addons.com/uploads/posts/2023-01/medium/1673957501_render_rpk-1.png"
       ]
     },
      {
-      "title": "MineCarft Test Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "One Piece MineCarft Addon",
+      "addonLink": "https://medalgo.github.io/Luffy%20Addon.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "One Piece MineCarft Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://api.mcpedl.com/storage/submissions/169976/images/jojos-bizarre-adventure-stand-disc-addon_14.png",
+        "https://api.mcpedl.com/storage/submissions/169976/images/jojos-bizarre-adventure-stand-disc-addon_12.png",
+        "https://api.mcpedl.com/storage/submissions/169976/images/jojos-bizarre-adventure-stand-disc-addon_13.png"
       ]
     },
      {
-      "title": "MineCarft Test 3",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "MineCarft Addon",
+      "addonLink": "https://medalgo.github.io/disenchanter-addon-v3.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "MineCarft Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/3.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg"
+        "https://api.mcpedl.com/storage/submissions/174371/images/magis_5.jpeg",
+        "https://api.mcpedl.com/storage/submissions/174371/images/magis_7.jpeg",
+        "https://api.mcpedl.com/storage/submissions/174371/images/magis_6.jpeg"
       ]
     }
   ],
