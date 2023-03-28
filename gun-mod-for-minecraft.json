@@ -28,32 +28,32 @@
   
   "Addons": [
     {
-      "title": "MineCarft Decoration Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "Absolute Guns 2 3D Addon",
+      "addonLink": "https://medalgo.github.io/l4d-dlcr.zip",
       "isLocked" : false ,
-      "description": "your description her about Decoration Addon",
+      "description": "Absolute Guns 2 3D Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://mc-addons.com/uploads/posts/2023-01/medium/1672776154_thumbnailhd_1-520x245-1.png",
+        "https://mc-addons.com/uploads/posts/2021-12/medium/1640342237_actual-guns-cso-v311-20-stages-of-hell-part-1-scripts_10-1.png",
+        "https://mc-addons.com/uploads/posts/2022-06/medium/1654884100_actual-guns-cso-v3111-llamas-deluxe-update_11.png"
       ]
     },
      {
-      "title": "MineCarft Test Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "MineCarft Addon",
+      "addonLink": "https://medalgo.github.io/l4d-dlcr.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "MineCarft Addon",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://api.mcpedl.com/storage/submissions/118628/images/blasters-addon_2.png",
+        "https://my.mcpedl.com/storage/worlds/10978/images/cash-and-lukes-pvp-gun-maps_2.png",
+        "https://my.mcpedl.com/storage/worlds/10978/images/pvp-gun-world-by-castille-studios-new-map-beta-v-02_6.png"
       ]
     },
      {
-      "title": "MineCarft Test 3",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "Actual Guns CSO Addon",
+      "addonLink": "medalgo.github.io/insares_warfare_v4_prerelease_trade_tables_fix.zip",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "Actual Guns CSO Addon",
       "preview": [
         "https://zonekapp.com/MineCraft/addons/3.jpg",
         "https://zonekapp.com/MineCraft/addons/1.jpg",
