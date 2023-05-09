@@ -1,0 +1,97 @@
+{
+
+  "applovin_banner_id": "13482be8f771efc7",
+  "applovin_interstitial_id": "37c0fd7e2939a3be",
+  "applovin_native_id": "76d87171404718ed",
+  "applovin_rewarded_id": "6405227d47f8fe55",
+  "max": true,
+ 
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  
+
+  "Ads Explanation": " applovin | facebook ",
+
+  "Interstitial": "facebook",
+  "Banner": "facebook",
+  "Native": "facebook",
+  "Rewarded": "facebook",
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+  "onesignal_id": "xxxxxxx",
+  
+
+  "mods": [
+	{
+	 "images": [
+	   "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f"
+	 ],
+	 "title": "item 1",
+	 "desc": "desc 1",
+	 "code": "23GD4363DFB",
+	 "button_text": "Get Code"
+	 
+    },
+	{
+	 "images": [
+	   "https://ct24.ceskatelevize.cz/sites/default/files/styles/node-article_16x9/public/images/1871572-header_price.jpg?itok=QJcjDHkr",
+	   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_uH6mwA4jax7dhOX5DtZ3iphfdFQZOGQg&usqp=CAU"
+	 ],
+	 "title": "item 2",
+	 "desc": "desc 2",
+	 "code": "23GD4363DFB",
+	 "button_text": "Click To Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f",
+	   "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/4/28/bjoyslzjb3uxqyg82uz2/minecraft",
+	   "https://i.guim.co.uk/img/media/c6f7b43fa821d06fe1ab4311e558686529931492/236_140_947_568/master/947.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=06da3aa1e1a44b8dda7c5d2038910e10"
+	 ],
+	 "title": "item 3",
+	 "desc": "desc 3",
+	 "code": "23GD4363DFB",
+	 "button_text": "Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://ct24.ceskatelevize.cz/sites/default/files/styles/node-article_16x9/public/images/1871572-header_price.jpg?itok=QJcjDHkr",
+	   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_uH6mwA4jax7dhOX5DtZ3iphfdFQZOGQg&usqp=CAU"
+	 ],
+	 "title": "item 4",
+	 "desc": "desc 4",
+	 "code": "23GD4363DFB",
+	 "button_text": "Click To Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f",
+	   "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/4/28/bjoyslzjb3uxqyg82uz2/minecraft",
+	   "https://i.guim.co.uk/img/media/c6f7b43fa821d06fe1ab4311e558686529931492/236_140_947_568/master/947.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=06da3aa1e1a44b8dda7c5d2038910e10"
+	 ],
+	 "title": "item 5",
+	 "desc": "desc 5",
+	 "code": "23GD4363DFB",
+	 "button_text": "Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://ct24.ceskatelevize.cz/sites/default/files/styles/node-article_16x9/public/images/1871572-header_price.jpg?itok=QJcjDHkr"
+	 ],
+	 "title": "item 6",
+	 "desc": "desc 6",
+	 "code": "23GD4363DFB",
+	 "button_text": "Click To Get Code"
+
+	}
+  ]  
+}
