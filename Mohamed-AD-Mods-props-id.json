@@ -1,0 +1,90 @@
+{
+
+  "applovin_banner_id": "13482be8f771efc7",
+  "applovin_interstitial_id": "37c0fd7e2939a3be",
+  "applovin_native_id": "76d87171404718ed",
+  "applovin_rewarded_id": "6405227d47f8fe55",
+  "max": true,
+ 
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+  
+
+  "Ads Explanation": " applovin | facebook ",
+
+  "Interstitial": "facebook",
+  "Banner": "facebook",
+  "Native": "facebook",
+  "Rewarded": "facebook",
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+  "onesignal_id": "xxxxxxx",
+  
+
+  "mods": [
+	{
+	 "images": [
+	   "https://i.pinimg.com/originals/7b/2e/61/7b2e6168d6e8ece858c3b5f9654ea22d.jpg"
+	 ],
+	 "title": "Simple House",
+	 "desc": "Simple House",
+	 "code": "34162005517112",
+	 "button_text": "Get Code"
+	 
+    },
+	{
+	 "images": [
+	   "https://i.pinimg.com/564x/15/d2/e0/15d2e0c2e9101bb1851399defdd00eff.jpg"
+	 ],
+	 "title": "Milktea Shop",
+	 "desc": "Milktea Shop",
+	 "code": "5816152771689",
+	 "button_text": "Click To Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://i.pinimg.com/564x/dc/f8/b1/dcf8b15752978f5d2e52ce15d0518c56.jpg"
+	 ],
+	 "title": "Colorful Resort",
+	 "desc": "Colorful Resort",
+	 "code": "34162020992516",
+	 "button_text": "Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://i.ytimg.com/vi/-EijwRfptHw/maxresdefault.jpg"
+	 ],
+	 "title": "Charming Pink House",
+	 "desc": "Charming Pink House",
+	 "code": "95161517161714",
+	 "button_text": "Click To Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://i.pinimg.com/564x/cd/a5/43/cda543efa8a5e78d749d013531d6bb7f.jpg"
+	 ],
+	 "title": "Party",
+	 "desc": "Party",
+	 "code": "50161596092717",
+	 "button_text": "Get Code"
+
+	},
+	{
+	 "images": [
+	   "https://i.pinimg.com/564x/4a/36/30/4a3630bb2148c4dbac7b896ca454f4fb.jpg
+	 "title": "Gray Aesthetic Modern Home PROPS ID",
+	 "desc": "Gray Aesthetic Modern Home PROPS ID",
+	 "code": "59161804463025",
+	 "button_text": "Click To Get Code"
+
+	}
+  ]  
+}
