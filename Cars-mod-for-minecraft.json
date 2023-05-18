@@ -31,36 +31,38 @@
   
   "Addons": [
     {
-      "title": "MineCarft Decoration Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "MineCarft Porsche 964",
+      "addonLink": "https://medalgo.github.io/medalgo2.github.io/Porsche964Mobile.mcaddon",
       "isLocked" : false ,
-      "description": "your description her about Decoration Addon",
+      "description": "The Porsche 964 is the company's internal name for the Porsche 911 manufactured and sold between 1989 and 1994. Designed by Benjamin Dimson through January 1986, it featured significant styling revisions over previous 911 models, most prominently the more integrated bumpers. It was the first car to be offered with Porsche's Tiptronic automatic transmission and all wheel drive as options. Type 964 ("nine-sixty-four", or "nine-six-four") is Porsche's internal code name for the 911 Carrera 2 and 911 Carrera 4 models, which were badged simply as "Carrera 2" and "Carrera 4". "964" is used by automotive publications and enthusiasts to distinguish them from other generations of the Carrera.",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://my.mcpedl.com/storage/addons/7286/images/porsche-964-rwb-addon_6.png",
+        "https://my.mcpedl.com/storage/addons/7286/images/porsche-964-rwb-addon_2.png",
+        "https://my.mcpedl.com/storage/addons/7286/images/porsche-964-rwb-addon_5.png"
       ]
     },
      {
-      "title": "MineCarft Test Addon",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "MineCarft Car Collection",
+      "addonLink": "https://medalgo.github.io/medalgo2.github.io/JDM-Legacy-S2-(Mobile).mcaddon",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "If you thought this was just a mere collection of the cars I've made, you're absolutely wrong. Unlike in the individual car projects/addons that I've posted, players can now color the cars according to their preference (like in the original JDM Legacy). More information on this will be explained below.
+
+Aside that, all the cars now have better sound effects such as custom hit sound effects, open/close doors/popup headlights sound effects and startup sound effects. This time, without the need of Minecraft's Experimental Features (great for people like me who are homo-experimental mode).",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/2.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/3.jpg"
+        "https://api.mcpedl.com/storage/submissions/123303/images/jdm-legacy--season-2-car-collection_4.png",
+        "https://api.mcpedl.com/storage/submissions/123303/images/jdm-legacy--season-2-car-collection_9.png",
+        "https://api.mcpedl.com/storage/submissions/123303/images/jdm-legacy--season-2-car-collection_12.png"
       ]
     },
      {
-      "title": "MineCarft Test 3",
-      "addonLink": "https://zonekapp.com/MineCraft/addons/decoration.zip",
+      "title": "Subaru Impreza 22B STI Addon",
+      "addonLink": "https://medalgo.github.io/medalgo2.github.io/Subaru-Impreza-22B.mcaddon",
       "isLocked" : true ,
-      "description": "your description her about MineCarft Test Addon",
+      "description": "We have legends in drag racing, motorsports, drifting and all sorts of racing. But today, we will be looking into rally racing. Introducing the Subaru 22B STI, a legend in rally racing that will most likely be the first car to come into a rally fanatic when asked about rally racing. And if you aren't into rally racing, this car is an AWD making it reliable in all your off-road biz.",
       "preview": [
-        "https://zonekapp.com/MineCraft/addons/3.jpg",
-        "https://zonekapp.com/MineCraft/addons/1.jpg",
-        "https://zonekapp.com/MineCraft/addons/2.jpg"
+        "https://my.mcpedl.com/storage/addons/4593/images/subaru-impreza-22b-sti-addon_5.png",
+        "https://my.mcpedl.com/storage/addons/4593/images/subaru-impreza-22b-sti-addon_3.png",
+        "https://my.mcpedl.com/storage/addons/4593/images/subaru-impreza-22b-sti-addon_4.png"
       ]
     }
   ],
