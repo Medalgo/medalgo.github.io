@@ -25,7 +25,7 @@
     "Unity_RewardAd"       : "rewardedVideo",
 	
 	
-    "force_rate_app" : true
+    "force_rate_app" : false
     
   },
   
