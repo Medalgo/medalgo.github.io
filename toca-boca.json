@@ -3,8 +3,8 @@
     "AdsController": 
       {
 		"gameurl":"https://html5.gamedistribution.com/f9de399f8d324adc828279e73f43951c/",
-        "BannerAd": "ironsource",
-		"InterstitialAd": "ironsource",
+        "BannerAd": "max",
+		"InterstitialAd": "max",
         "NativeAd": "max",
         
         "startApp_ID" : "204947437",
@@ -17,10 +17,10 @@
         "InterstitialAdmob": "ca-app-pub-6965950004256246/9359683332",
         "NativeAdmob": "ca-app-pub-6965950004256246/3915784966",
         
-		"maxBanner": "a84c3cabcbbb7409",
+		"maxBanner": "dd18dd84b6e6065e",
 		"maxBanner_2": "bfd39c70322d76b2",
-		"maxInterstitial": "161a9b7ae761ddfc",
-		"maxNative": "3c43f6693189fff2",
+		"maxInterstitial": "8a37e949ff01397c",
+		"maxNative": "d17879fb04fd0a25",
 		
 		"ironsource_appKey": "1915ac475",
 		
