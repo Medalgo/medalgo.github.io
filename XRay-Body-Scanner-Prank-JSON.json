@@ -15,8 +15,8 @@
   
   "Ads Explanation": " admob | fb | max | mix ",
 
-  "ads_type": "admob",
-  "strMAX": "admob",
+  "ads_type": "max",
+  "strMAX": "max",
 
   "clicks_to_show_inter": 2,
 
